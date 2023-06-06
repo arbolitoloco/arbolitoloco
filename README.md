@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I'm a beetle expert turned programmer. 
-- Working as a *Database Analyst/Biodiversity Informatician* at Arizona State University.
-- Currently trying to figure out full-stack web development, focusing on *JavaScript*.
+- I'm a beetle expert turned programmer.
+- I'm available for hiring!
+- Last worked as a *Database Analyst/Biodiversity Informatician* at Arizona State University.
+- Currently trying to figure out full-stack web development, focusing on *JavaScript* and biological data sharing.
 - Hoping to make the world a little better by promoting *Open Science* and *Social Justice*.
 - Ask me about: *Women In STEM*, *Web Development*, *Data Cleaning & Visualization*, *Insect/Chrysomelidae Systematics*, *Biological Taxonomy & Modern Tools for Science*
 - I'm looking for help with: *Open Source*, *ReactJS*, *NodeJS*, *API development*
