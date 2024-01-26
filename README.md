@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🪲 I'm a beetle expert turned programmer.
-- 👀 I'm available for hiring!
-- Last worked as a *Database Analyst/Biodiversity Informatician* at Arizona State University.
+- 👀 I'm available for collaborating in fun projects!
+- On my way to start working as a *Science Data Admin* at the [Denver Museum of Nature & Science](https://www.dmns.org/)!
+- Have been working as a *Database Analyst/Biodiversity Informatician* for 6+ years (Museu de Zoologia da Universidade de São Paulo, University of Wisconsin-Madison, Arizona State University).
 - Currently trying to figure out full-stack web development, focusing on *JavaScript*, and creating web-based tools for scientists who want to share or use biological data.
 - Hoping to make the world a little better by promoting *Open Science* and *Social Justice*.
 - Ask me about: *Women In STEM*, *Web Development*, *Data Cleaning & Visualization*, *Insect/Chrysomelidae Systematics*, *Biological Taxonomy & Modern Tools for Science*
